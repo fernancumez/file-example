@@ -1,0 +1,6 @@
+
+Alumno1 PROM: 40
+Alumno2 PROM: 50
+Alumno3 PROM: 53
+Alumno4 PROM: 43
+Alumno5 PROM: 43
